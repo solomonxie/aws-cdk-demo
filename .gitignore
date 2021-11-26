@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# CDK build output (contains local absolute paths, synthesized templates)
+cdk.out/
